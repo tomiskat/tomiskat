@@ -3,16 +3,12 @@
 I’m **Tadeáš Tomiška**, a master’s student in Computer Science at Charles University and a software developer based in the Czech Republic.  
 
 - 💻 **Interests**: Passionate about **Backend Development**, **Android Development**, and **Artificial Intelligence**.  
-- 📂 **Projects**: This GitHub space showcases my work, shares insights, and connects with like-minded developers.  
+- 📂 **Projects**: This GitHub space showcases my work, shares insights, and connects with like-minded developers.
+- 🛠️ **Programming Languages**: Python, Java, C++, Kotlin, Javascript
+
 
 Let’s build something amazing together! 🚀  
 
-## 🛠️ Programming Languages  
-- **Java**  
-- **Python**  
-- **C++**  
-- **Kotlin**  
-- **JavaScript**  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bc-tadeáš-tomiška-0956642a0/)
