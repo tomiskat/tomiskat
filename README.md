@@ -4,7 +4,7 @@ I’m **Tadeáš Tomiška**, a master’s student in Computer Science at Charles
 
 - 💻 **Interests**: Passionate about **Backend Development**, **Android Development**, and **Artificial Intelligence**.  
 - 📂 **Projects**: This GitHub space showcases my work, shares insights, and connects with like-minded developers.
-- 🛠️ **Programming Languages**: Python, Java, C++, Kotlin, Javascript
+- 🛠️ **Programming Languages**: Java, Python, Kotlin, C++
 
 
 Let’s build something amazing together! 🚀  
