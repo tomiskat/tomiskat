@@ -1,10 +1,10 @@
 # Hey there 👋  
 
-I’m **Tadeáš Tomiška**, a master’s student in Computer Science at Charles University based in the Czech Republic.  
+I’m **Tadeáš Tomiška**, a master’s student in Software and Data Engineering at Charles University.
 
-- 💻 **Interests**: Passionate about **Backend Development**, **Android Development**, and **Artificial Intelligence**.  
+- 💻 **Interests**: Passionate about **Data Engineering** and **Artificial Intelligence**.  
 - 📂 **Projects**: This GitHub space showcases my work, shares insights, and connects with like-minded developers.
-- 🛠️ **Programming Languages**: Java, Python, Kotlin
+- 🛠️ **Programming Languages**: Python, Java
 
 
 Let’s build something amazing together! 🚀  
